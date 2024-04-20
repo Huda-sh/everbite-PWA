@@ -1,6 +1,6 @@
 <script setup>
-
 import RestaurantInfo from "@/components/RestaurantInfo.vue";
+
 </script>
 
 <template>
